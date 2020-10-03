@@ -15,3 +15,6 @@ This is the command to run the fifth question and the sixth question.
 For the seventh question you need to include the users file as input as well as below.
 
 $ Hadoop jar hashtag.jar topten_hashtags /homework1/training_set_tweets.txt /homework1/training_set_users.txt hashtags
+
+
+Project 1 counted the number of hash tags occurrences and find the 10 most repeated hashtags, most tweeted 10 days and most tweeted 10 cities
