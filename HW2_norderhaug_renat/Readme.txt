@@ -13,3 +13,5 @@ spark-submit --class "AssignmentTwo" assignmenttwo_2.12-1.0.jar /homework1/train
 AssignmentThree:
 
 spark-submit --class "AssignmentThree" assignmentthree_2.12-1.0.jar /homework1/training_set_tweets.txt /homework1/training_set_users.txt
+
+HW #2 project written in Scala, the project includes code to the 10 most popular mentions, 10 most retweeted users, and 10 most tweeted at users in a large Twitter dataset.
