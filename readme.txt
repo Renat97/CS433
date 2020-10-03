@@ -1,0 +1,1 @@
+*/ special Hadoop versions needed and clusters down that are hosting the files for the school projects. You might have difficulty running the projects because of this. Please contact me for assistance, otherwise follow the readMe files in the folders. */
